@@ -1,1 +1,1 @@
-
+- image/aside.jpg
